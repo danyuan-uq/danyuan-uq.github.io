@@ -19,9 +19,9 @@ BEGIN:VEVENT
 UID:uq-utokyo-workshop-2026@uq.edu.au
 DTSTAMP:20260605T000000Z
 DTSTART;TZID=Australia/Brisbane:20260713T090000
-DTEND;TZID=Australia/Brisbane:20260713T150000
+DTEND;TZID=Australia/Brisbane:20260713T153000
 SUMMARY:UQ-UTokyo Workshop 2026
 DESCRIPTION:Smart Micro/Nano Systems for Health, Environment and Emerging Technologies
-LOCATION: Terrace Room - Floor 6 of Sir Llew Edwards Building (14) of University of Queensland, St Lucia, Brisbane, Australia
+LOCATION: Terrace Room, Level 6, Sir Llew Edwards Building (Building 14), The University of Queensland, St Lucia, Brisbane, Australia
 END:VEVENT
 END:VCALENDAR
